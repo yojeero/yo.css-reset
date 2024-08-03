@@ -45,8 +45,7 @@ h5 { font-size : 1.125rem }
 ```
 body
 {
-	font-family : 'Roboto', system-ui,-apple-system,'Segoe UI','Helvetica Neue', 
-	Ubuntu,Cantarell,Noto Sans,sans-serif;
+	font-family : 'Roboto', system-ui,-apple-system,'Segoe UI','Helvetica Neue', Ubuntu, Cantarell, Noto Sans, sans-serif;
 	font-weight : 400;
 	line-height : 1.75;
 
