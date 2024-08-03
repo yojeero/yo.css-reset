@@ -1,5 +1,5 @@
 
-```
+
 /* css reset | @yojeero | https://github.com/yojeero */
 
 ```
@@ -11,13 +11,11 @@ input, button, textarea, select {font: inherit;}
 ul, ol {list-style: none;}
 a {cursor: pointer; text-decoration: none; border: 0; background: transparent;}
 a:active, a:focus, a:hover {outline-width: 0;} 
-
-
 ```
+
 /* text style */
 
 ```
-
 h1,
 h2,
 h3,
@@ -40,13 +38,11 @@ h2 { font-size : 1.602rem }
 h3 { font-size : 1.424rem } 
 h4 { font-size : 1.266rem } 
 h5 { font-size : 1.125rem } 
-
-
 ```
+
 /* 	main  */
 
 ```
-
 body
 {
 	font-family : 'Roboto', system-ui,-apple-system,'Segoe UI','Helvetica Neue', 
@@ -62,3 +58,4 @@ body
 	color : #191919;
 	background : #fafafa;
 }
+```
