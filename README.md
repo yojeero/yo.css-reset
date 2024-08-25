@@ -1,6 +1,5 @@
 
-
-/* css reset | @yojeero | https://github.com/yojeero */
+/* css reset by @yojeero | https://github.com/yojeero/yo.css-reset */
 
 *, *::before, *::after { box-sizing: border-box; } 
 html { box-sizing: border-box; font-size: 100%; line-height: 1.3; text-size-adjust: 100%; } 
